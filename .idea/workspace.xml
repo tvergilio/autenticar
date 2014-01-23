@@ -32,15 +32,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="seeds.rb.tt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://C:/Ruby/lib/ruby/gems/1.9.1/gems/padrino-admin-0.11.4/lib/padrino-admin/generators/templates/account/seeds.rb.tt">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,10 +77,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="controllers.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="35" selection-start="596" selection-end="596" vertical-scroll-proportion="0.5443886" vertical-offset="185" max-vertical-offset="935">
+            <state line="30" column="35" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="935">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="51" selection-start="183" selection-end="183" vertical-scroll-proportion="0.20877193" vertical-offset="0" max-vertical-offset="570">
               <folding />
             </state>
           </provider>
@@ -132,6 +135,7 @@
         <option value="$PROJECT_DIR$/db/seeds.rb" />
         <option value="$PROJECT_DIR$/app/app.rb" />
         <option value="$PROJECT_DIR$/app/controllers.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -242,20 +246,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="autenticar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="autenticar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -498,7 +488,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="35" selection-start="596" selection-end="596" vertical-scroll-proportion="0.5443886" vertical-offset="185" max-vertical-offset="935">
+        <state line="30" column="35" selection-start="596" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="183" selection-end="183" vertical-scroll-proportion="0.20877193" vertical-offset="0" max-vertical-offset="570">
           <folding />
         </state>
       </provider>
