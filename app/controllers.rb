@@ -28,6 +28,7 @@ HAML
 
   get :profile do
     content_type :text
+    'Successfully Authenticated! :)'
     current_account.to_yaml
   end
 
