@@ -18,6 +18,11 @@ gem 'slim'
 gem 'activerecord', '>= 3.1', :require => 'active_record'
 gem 'sqlite3'
 
+#For Heroku (PG)
+group :production do
+  gem 'pg'
+end
+
 # Test requirements
 
 # Padrino Stable Gem
