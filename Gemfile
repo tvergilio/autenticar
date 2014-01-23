@@ -16,7 +16,10 @@ gem 'rake'
 # Component requirements
 gem 'slim'
 gem 'activerecord', '>= 3.1', :require => 'active_record'
-gem 'sqlite3'
+
+group :development, :test do
+  gem 'sqlite3'
+end
 
 #For Heroku (PG)
 group :production do
