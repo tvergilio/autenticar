@@ -19,9 +19,10 @@ if account.valid?
   shell.say "   password: #{password}"
   shell.say "================================================================="
 else
-  shell.say "Sorry but some thing went worng!"
+  shell.say "Sorry but some thing went wrong!"
   shell.say ""
   account.errors.full_messages.each { |m| shell.say "   - #{m}" }
 end
 
 shell.say ""
+

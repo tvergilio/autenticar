@@ -76,7 +76,7 @@ module Autenticar
 
     # OmniAuth for single app
     use OmniAuth::Builder do
-      provider :twitter,  'consumer_key', 'consumer_secret'
+      provider :twitter,  'WOfeyl4mu6aMgVDZRRV4Iw', 'PonQy2EZYuX3U7DjhQjsRW8MXKMGjtRhBuupNwPmf4'
       provider :facebook, 'app_id', 'app_secret'
     end
 
